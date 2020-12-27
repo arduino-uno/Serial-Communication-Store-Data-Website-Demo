@@ -2,7 +2,7 @@
 
 Communication with PC using VBS, save the Arduino Temperature Sensor data to MySQL for display on the website
 
-<table style="widht:100%;border: none;">
+<table cellspacing="0" cellpadding="0" style="widht:100%;border: none;">
 <tr>
 <td style="widht:50%;">
 
