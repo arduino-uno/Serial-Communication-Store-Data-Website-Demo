@@ -48,6 +48,5 @@ Do While com.AtEndOfStream <> True
 	WScript.Sleep( 200 )
 Loop
 
-objFile.Close
 com.Close()
 ```
