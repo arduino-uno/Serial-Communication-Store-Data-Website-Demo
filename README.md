@@ -4,12 +4,12 @@ Communication with PC using VBS, save the Arduino Temperature Sensor data to MyS
 
 <table style="widht:100%;border: none;">
 <tr>
-<td>
+<td style="widht:50%;">
 
 ![Arduino-Logo](https://raw.githubusercontent.com/arduino-uno/Serial-Communication-Store-Data-Website-Demo/main/chipz.png)
 
 </td>
-<td>
+<td style="widht:50%;">
 
 ## Contents:
 - [x] WebDemo
