@@ -4,7 +4,7 @@ Communication with PC using VBS, save the Arduino Temperature Sensor data to MyS
 
 ## TODO List:
 - [x] Create database & tabel in MySql
-- [x] Run <pre>readSerial.vbs</pre> to store data from Arduino
+- [x] Run <strong>readSerial.vbs</strong> to store data from Arduino
 - [x] Open HTML Page & jQuery + Ajax for retreive data from MySql in some period time
 
 # Read & Store Data From Arduino UNO to MySql
