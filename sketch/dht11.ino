@@ -7,12 +7,12 @@
  */
 
 #include "DHT.h"
-#define DHTPIN A0
+#define DHTPIN 3
 #define DHTTYPE DHT11
 
 DHT dht(DHTPIN, DHTTYPE);
 
-const int buzzer = 8; //buzzer to arduino pin 8
+const int buzzer = 2; // buzzer to arduino pin 2
 float oHumi, humi, oTempC, tempC, oTempF, tempF;
 
 void setup() {
