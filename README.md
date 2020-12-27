@@ -9,8 +9,8 @@ Communication with PC using VBS, save the Arduino Temperature Sensor data to MyS
 
 # Read & Store Data From Arduino UNO to MySql
 
-For communication from Arduino UNO to PC i use VBS (Visual Basic Script)
-This is Example Script to store data into MySQL:
+For communication from Arduino UNO to PC, i use VBS (Visual Basic Script)
+This is an Example Script to store data into MySQL:
 
 ```c
   ' The MySQL query
