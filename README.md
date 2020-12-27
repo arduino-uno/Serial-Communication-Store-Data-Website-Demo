@@ -2,9 +2,16 @@
 
 Communication with PC using VBS, save the Arduino Temperature Sensor data to MySQL for display on the website
 
-## Arduino-Logo
+<table>
+<tr>
+<td>
+
 ![Arduino-Logo](https://raw.githubusercontent.com/arduino-uno/Serial-Communication-Store-Data-Website-Demo/main/chipz.png)
-## Contents
+
+</td>
+<td>
+
+## Contents:
 - [x] WebDemo
   - [x] arduino.sql
   - [x] index.php
@@ -12,3 +19,7 @@ Communication with PC using VBS, save the Arduino Temperature Sensor data to MyS
 - [x] Sketch
   - [x] dht11.ino
 - [x] readSerial.vbs
+
+</td>
+</tr>
+</table>
